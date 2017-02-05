@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/main_home"
+        title="首页"
+        barColorWhenSelected="#01879A"/>
+    <tab
+        id="@+id/tab_media"
+        icon="@drawable/ic_5_video"
+        title="多媒体"
+        barColorWhenSelected="#02AFAE"/>
+    <tab
+        id="@+id/tab_reader"
+        icon="@drawable/ic_reader"
+        title="阅读"
+        barColorWhenSelected="#4538B8"/>
+    <tab
+        id="@+id/tab_account"
+        icon="@drawable/ic_account"
+        title="我"
+        barColorWhenSelected="#2C2C2C"/>
+    <tab
+        id="@+id/tab_more"
+        icon="@drawable/ic_more"
+        title="更多"
+        barColorWhenSelected="#5E3D33"/>
+</tabs>
